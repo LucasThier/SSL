@@ -1,0 +1,7 @@
+{
+    "code-runner.runInTerminal": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "C_Cpp.default.cStandard": "c23"
+}
